@@ -1,0 +1,11 @@
+{
+    "name": "Win",
+    "initial_position": [ 0.0, -250.0, 0.0 ],
+
+    "components": {
+       
+        "renderable": {
+            "sprite_texture": "data\\Uwin.dds"
+        }
+    }
+}

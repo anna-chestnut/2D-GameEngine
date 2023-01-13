@@ -1,0 +1,18 @@
+{
+	"name": "Anna",
+	"initial_position": [ 300.0, -400.0, 0.0 ],
+
+	"components": {
+		"moveable": {
+			"mass:": 10.0,
+			"kd": 5.0
+		},
+		"collideable":{
+			"center": [ 0.0, 82.0, 0.0],
+			"extents": [44.0, 82.0, 0.0]
+		},
+		"renderable":{
+			"sprite_texture": "data\\GoodGuy.dds"
+		}
+	}
+}
